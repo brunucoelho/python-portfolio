@@ -18,7 +18,7 @@ O desafio principal deste projeto foi **atualizar a implementação do sistema b
 
 O design do sistema segue o Diagrama UML, que define as seguintes classes e seus relacionamentos:
 
-![Image of the class diagram](/project01/scr/modelo_UML_classes.png)
+![Image of the class diagram](./scr/diagrama_de_classes.png)
 
 ### Classes Implementadas:
 
